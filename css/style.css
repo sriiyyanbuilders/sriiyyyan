@@ -1795,7 +1795,7 @@ a:focus {
 }
 
 .portfolio .container{
-    min-width: auto !important;
+    min-width: 900px !important;
 }
 
 .portfolio #portfolio-flters {
